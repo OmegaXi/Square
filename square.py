@@ -1,5 +1,5 @@
 if __name__=='__main__':
-	from Tkinter import *
+	from tkinter import *
 	root=Tk()
 	root.title('Canavas')
 	canvas=Canavas(root,width=400,height=400,bg='yellow')
