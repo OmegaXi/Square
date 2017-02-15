@@ -2,7 +2,7 @@ if __name__=='__main__':
 	from tkinter import *
 	root=Tk()
 	root.title('Canavas')
-	canvas=Canavas(root,width=400,height=400,bg='yellow')
+	canvas=Canvas(root,width=400,height=400,bg='yellow')
 	x0=263
 	y0=263
 	y1=275
